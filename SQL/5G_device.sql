@@ -1,5 +1,5 @@
 /* NOTE:
-Sensitive data (like real table names, table fields) has been replaced with fictional values while preserving code structure and logic
+Sensitive data (like real table names, table fields etc) has been replaced with fictional values while preserving code structure and logic.
 */
 
 /* PURPOSE:
