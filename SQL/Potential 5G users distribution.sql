@@ -1,3 +1,11 @@
+/* NOTE:
+Sensitive data (like real table names, table fields) has been replaced with fictional values while preserving code structure and logic
+*/
+
+/* PURPOSE:
+Determine the number of KS network users whose devices don't support 5G and analyze their traffic distribution by location.
+*/
+
 SELECT CGISAI as cell_id,
 cell_name,
 YPOS/1000000 as latitude, 
