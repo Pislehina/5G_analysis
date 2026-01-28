@@ -4,4 +4,4 @@ All sensitive identifiers (table names, result data etc) used in this project ha
 The data structure and business logic fully preserve real-world scenarios.
 
 PROJECT PURPOSE:
-To analyse subscribers' ability to use 5G after its launch and examine the distribution of potential 5G users in Ukraine.
+To analyse subscribers' ability to use 5G after its launch and examine the distribution of potential 5G users in Ukraine (write SQL code).
